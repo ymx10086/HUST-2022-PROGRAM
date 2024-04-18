@@ -1,0 +1,15 @@
+﻿  func_front.cpp
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(208,43): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+D:\vis\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\vis\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(208,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [6]”转换为“LPCTSTR”
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(208,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\vis\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(208,43): message : 尝试匹配参数列表“(IMAGE *, const char [6], int, int)”时
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(212,42): error C2665: “loadimage”: 2 个重载中没有一个可以转换所有参数类型
+D:\vis\VC\Auxiliary\VS\include\easyx.h(259,6): message : 可能是“void loadimage(IMAGE *,LPCTSTR,LPCTSTR,int,int,bool)”
+D:\vis\VC\Auxiliary\VS\include\easyx.h(258,6): message : 或    “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(212,5): message : “void loadimage(IMAGE *,LPCTSTR,int,int,bool)”: 无法将参数 2 从“const char [6]”转换为“LPCTSTR”
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(212,25): message : 指向的类型不相关; 转换需要 reinterpret_cast、C 样式强制转换或带圆括号的函数样式强制转换
+D:\vis\VC\Auxiliary\VS\include\easyx.h(258,6): message : 参见“loadimage”的声明
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(212,42): message : 尝试匹配参数列表“(IMAGE *, const char [6], int, int)”时

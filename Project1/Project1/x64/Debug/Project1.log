@@ -1,0 +1,25 @@
+﻿  main.cpp
+  func_DPLL1.cpp
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL1.cpp(165,12): warning C4101: “num_literal”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL1.cpp(601,9): warning C4101: “flag”: 未引用的局部变量
+  func_DPLL2.cpp
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(216,9): warning C4101: “a”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(227,17): warning C4101: “p”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(209,25): warning C4101: “tmp_literal”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(350,15): warning C4101: “tmp_literal”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(377,9): warning C4101: “a”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(387,17): warning C4101: “p”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL2.cpp(370,25): warning C4101: “tmp_literal”: 未引用的局部变量
+  func_SUDOKU.cpp
+C:\Users\hp\Desktop\Project1\Project1\func_SUDOKU.cpp(130,15): warning C4101: “k”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_SUDOKU.cpp(236,47): warning C4101: “z”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_SUDOKU.cpp(236,44): warning C4101: “b”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_SUDOKU.cpp(292,18): warning C4101: “t”: 未引用的局部变量
+  func_front.cpp
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(299,20): warning C4101: “finish”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(300,9): warning C4101: “duration”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(330,18): warning C4101: “n”: 未引用的局部变量
+C:\Users\hp\Desktop\Project1\Project1\func_front.cpp(277,19): warning C4101: “s”: 未引用的局部变量
+  正在生成代码...
+C:\Users\hp\Desktop\Project1\Project1\func_DPLL1.cpp(171): warning C4715: “Select_Literal_DPLL0”: 不是所有的控件路径都返回值
+  Project1.vcxproj -> C:\Users\hp\Desktop\Project1\x64\Debug\Project1.exe
